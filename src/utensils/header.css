@@ -1,27 +1,19 @@
-
-
-.navbar-expand-lg .navbar-nav .nav-link {
-    margin-left: 20px;
-    font-size: 1.1em;
-    padding: 10px;
-}
-
 .navbar-nav .nav-link.active {
     color: #425bc1;
     font-weight: bold;
     background-color: #EBEBEB;
     border-radius: 10px;
+    padding: 10px; /* Ensure consistent padding for active links */
 }
 
 .kop {
     color: #425bc1;
+    margin-bottom: 20px; /* Add margin to the bottom to prevent movement */
 }
 
 hr {
     width: 50%;
-    position: absolute;
-    left: 0;
-    right: 0;
     margin: 0 auto;
+    margin-bottom: 20px; /* Add margin to the bottom to prevent movement */
 }
 

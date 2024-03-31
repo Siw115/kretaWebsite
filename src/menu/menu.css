@@ -29,20 +29,4 @@ h2 {
     color: #425bc1;
 }
 
-.jumbotron {
-    background-color: #f8f9fa; /* Light gray background color */
-    padding: 50px; /* Increase padding for better spacing */
-    border-radius: 15px; /* Add rounded corners */
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
-}
 
-.jumbotron p {
-    font-size: 1.1em; /* Increase font size for better readability */
-    color: #666; /* Dim the paragraph text color */
-}
-
-.custom-jumbotron {
-    max-width: 800px; /* Adjust the max-width as needed */
-    margin: 0 auto; /* Center the jumbotron horizontally */
-    padding: 20px; /* Add padding for better readability */
-}
