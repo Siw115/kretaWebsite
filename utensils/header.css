@@ -1,3 +1,5 @@
+
+
 .navbar-expand-lg .navbar-nav .nav-link {
     margin-left: 20px;
     font-size: 1.1em;
@@ -14,3 +16,12 @@
 .kop {
     color: #425bc1;
 }
+
+hr {
+    width: 50%; /* Adjust the width as needed */
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto; /* Center the <hr> horizontally */
+}
+
