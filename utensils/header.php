@@ -29,3 +29,5 @@
         </div>
     </div>
 </nav>
+
+<hr> <!-- Add horizontal line here -->

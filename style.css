@@ -3,10 +3,14 @@
 @import url('utensils/header.css');
 @import url('menu/menu.css');
 
-h1 {
+h1, h2 {
     font-family: 'EB Garamond', serif;
 }
 
 a {
+    font-family: 'Rubik', sans-serif;
+}
+
+p {
     font-family: 'Rubik', sans-serif;
 }
