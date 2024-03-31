@@ -18,10 +18,10 @@
 }
 
 hr {
-    width: 50%; /* Adjust the width as needed */
+    width: 50%; 
     position: absolute;
     left: 0;
     right: 0;
-    margin: 0 auto; /* Center the <hr> horizontally */
+    margin: 0 auto;
 }
 
