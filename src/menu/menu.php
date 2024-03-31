@@ -40,12 +40,13 @@
     </div>
 </div>
 
-<div class="jumbotron mt-3">
+<div class="jumbotron mt-3 custom-jumbotron mb-5">
     <div class="container">
         <h2 class="text-center">Onze menu</h2>
         <p class="lead text-center">De menukaart is zeer uitgebreid en er is voor elk wat wils. De kaart kenmerkt zich door verse en huisgemaakte gerechten, zoals de bekende grillgerechten zoals gyros, souvlaki en tzatziki. Ook zijn er traditionele specialiteiten zoals kleftiko, moussaka en gestoofd vlees, zoals lamsvlees met stifado. Onder het genot van een lekker Grieks wijntje, is het altijd een onvergetelijke avond bij Restaurant Kreta.</p>
     </div>
 </div>
+
 
 
 <?php include('../utensils/bootstrap_includes_scripts.php'); ?>
