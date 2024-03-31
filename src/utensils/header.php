@@ -14,10 +14,10 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/') echo 'active'; ?>" aria-current="page" href="/kretaWebsite/src/">Home</a>
+                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/src/') echo 'active'; ?>" aria-current="page" href="/kretaWebsite/src/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/menu/menu.php') echo 'active'; ?>" href="/kretaWebsite/src/menu/menu.php">Menu</a>
+                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/src/menu/menu.php') echo 'active'; ?>" href="/kretaWebsite/src/menu/menu.php">Menu</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/gallery.php') echo 'active'; ?>" href="/src/gallery.php">Galerij</a>
