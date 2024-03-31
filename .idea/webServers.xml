@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9d5b882e-d599-4ac1-94a3-f01666cef733" name="localhost" url="http://localhost/kretaVoorburg">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\kretaWebsite" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
