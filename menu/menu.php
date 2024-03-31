@@ -17,7 +17,7 @@
             <div class="card">
                 <img class="card-img" src="../images/menu-image.jpeg" alt="Afbeelding voor de menu kaart">
                 <div class="card-img-overlay">
-                    <button class="btn btn-primary card-button">Menu Kaart</button>
+                    <a href="../pdf/menukaart.pdf" class="btn btn-primary card-button" target="_blank">Menu Kaart</a>
                 </div>
             </div>
         </div>
@@ -25,7 +25,7 @@
             <div class="card">
                 <img class="card-img" src="../images/dessert-menu.jpeg" alt="Afbeelding voor de dessert kaart">
                 <div class="card-img-overlay">
-                    <button class="btn btn-primary card-button">Dessert Kaart</button>
+                    <a href="../pdf/dessertkaart.pdf" class="btn btn-primary card-button" target="_blank">Dessert Kaart</a>
                 </div>
             </div>
         </div>
@@ -33,7 +33,7 @@
             <div class="card">
                 <img class="card-img" src="../images/wine-menu.jpeg" alt="Afbeelding voor de wijn kaart">
                 <div class="card-img-overlay">
-                    <button class="btn btn-primary card-button">Wijn Kaart</button>
+                    <a href="../pdf/wijnkaart.pdf" class="btn btn-primary card-button" target="_blank">Wijn Kaart</a>
                 </div>
             </div>
         </div>
