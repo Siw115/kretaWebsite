@@ -11,22 +11,31 @@
 
 <?php include('../utensils/header.php'); ?>
 
-<div class="container">
+<div class="container mt-3">
     <div class="row">
         <div class="col-sm-4">
-            <h3>Column 1</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <div class="card">
+                <img class="card-img" src="../images/menu-image.jpeg" alt="Afbeelding voor de menu kaart">
+                <div class="card-img-overlay">
+                    <button class="btn btn-primary card-button">Menu Kaart</button>
+                </div>
+            </div>
         </div>
         <div class="col-sm-4">
-            <h3>Column 2</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <div class="card">
+                <img class="card-img" src="../images/dessert-menu.jpeg" alt="Afbeelding voor de dessert kaart">
+                <div class="card-img-overlay">
+                    <button class="btn btn-primary card-button">Dessert Kaart</button>
+                </div>
+            </div>
         </div>
         <div class="col-sm-4">
-            <h3>Column 3</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <div class="card">
+                <img class="card-img" src="../images/wine-menu.jpeg" alt="Afbeelding voor de wijn kaart">
+                <div class="card-img-overlay">
+                    <button class="btn btn-primary card-button">Wijn Kaart</button>
+                </div>
+            </div>
         </div>
     </div>
 </div>

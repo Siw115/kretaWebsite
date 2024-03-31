@@ -1,0 +1,26 @@
+.card {
+    height: 300px; /* Set a fixed height for the card */
+}
+.card-img {
+    height: 100%; /* Make the image fill the entire height of the card */
+    width: 100%; /* Make the image fill the entire width of the card */
+    object-fit: cover; /* Ensure the image maintains aspect ratio and covers the entire container */
+}
+
+.card-button {
+    font-size: 1.1em;
+    position: absolute;
+    background-color: #425bc1;
+    padding: 10px;
+    top: 50%; /* Move the button 50% down from the top */
+    left: 50%; /* Move the button 50% from the left */
+    transform: translate(-50%, -50%); /* Center the button both horizontally and vertically */
+    border: 0px;
+    border-radius: 50px;
+    width: 150px;
+}
+
+.card-button:hover {
+    color: white;
+    background-color: #40286e;
+}

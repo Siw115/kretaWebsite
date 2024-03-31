@@ -5,8 +5,15 @@
 }
 
 .navbar-nav .nav-link.active {
-    color: #6E42C1;
+    color: #425bc1;
     font-weight: bold;
     background-color: #EBEBEB;
     border-radius: 10px;
+}
+
+.kop {
+    width: 100vw;
+    padding: 10px;
+    color: white;
+    background-color: #425bc1;
 }
