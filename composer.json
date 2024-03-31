@@ -1,0 +1,15 @@
+{
+    "name": "siwan/kreta-website",
+    "autoload": {
+        "psr-4": {
+            "Siwan\\KretaWebsite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Siwani Veerakathy",
+            "email": "siwani1155@gmail.com"
+        }
+    ],
+    "require": {}
+}
