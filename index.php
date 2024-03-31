@@ -9,9 +9,9 @@
 </head>
 <body>
 
-<?php include('utensils/header.php'); ?>
+<?php include('src/utensils/header.php'); ?>
 
-<?php include('utensils/bootstrap_includes_scripts.php'); ?>
+<?php include('src/utensils/bootstrap_includes_scripts.php'); ?>
 
 </body>
 </html>
