@@ -1,10 +1,7 @@
 {
-    "name": "siwan/kreta-website",
-    "autoload": {
-        "psr-4": {
-            "Siwan\\KretaWebsite\\": "src/"
-        }
-    },
+    "name": "siwani/kretaWebsite",
+    "description": "Kreta website",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Siwani Veerakathy",
