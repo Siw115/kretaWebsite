@@ -1,0 +1,12 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+    margin-left: 20px;
+    font-size: 1.1em;
+    padding: 10px;
+}
+
+.navbar-nav .nav-link.active {
+    color: #6E42C1;
+    font-weight: bold;
+    background-color: #EBEBEB;
+    border-radius: 10px;
+}

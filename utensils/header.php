@@ -5,6 +5,7 @@
         </div>
     </div>
 </div>
+
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -13,16 +14,16 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="/kretaWebsite">Home</a>
+                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/') echo 'active'; ?>" aria-current="page" href="/kretaWebsite/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="menu/menu.php">Menu</a>
+                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/menu/menu.php') echo 'active'; ?>" href="/kretaWebsite/menu/menu.php">Menu</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="#">Galerij</a>
+                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/gallery.php') echo 'active'; ?>" href="/kretaWebsite/gallery.php">Galerij</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="#" tabindex="-1">Contact</a>
+                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/contact.php') echo 'active'; ?>" href="/kretaWebsite/contact.php" tabindex="-1">Contact</a>
                 </li>
             </ul>
         </div>
