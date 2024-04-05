@@ -14,7 +14,7 @@
 <div class="container">
     <div class="row justify-content-center m-3">
         <div class="col-md-8">
-            <div class="d-flex justify-content-center jumbotron-home">
+            <div class="d-flex justify-content-center align-items-center jumbotron-home">
                 <div class="row justify-content-center align-items-center">
                     <div class="col-md-6">
                         <div class="text-center">
@@ -23,7 +23,7 @@
                             <h4 class="mt-3">Team Kreta</h4>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 text-center">
                         <img src="../images/art.png" class="img-fluid" alt="Art">
                     </div>
                 </div>
@@ -31,7 +31,6 @@
         </div>
     </div>
 </div>
-
 
 <?php include('utensils/bootstrap_includes_scripts.php'); ?>
 
