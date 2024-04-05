@@ -18,3 +18,12 @@ h3, h4 {
 .custom-badge {
     font-size: 0.9em;
 }
+
+.carousel-inner {
+    max-height: 350px;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    max-height: 350px;
+}
