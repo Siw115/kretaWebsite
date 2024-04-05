@@ -27,7 +27,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 text-center">
-                        <img src="../images/art.png" class="img-fluid" alt="Afbeelding van Kreta restaurant raam art">
+                        <img src="images/art.png" class="img-fluid" alt="Afbeelding van Kreta restaurant raam art">
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@
         <div id="carouselExampleIndicators" class="carousel slide mt-5" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="https://via.placeholder.com/800x400?text=Slide+1" class="d-block w-100" alt="...">
+                    <img src="images/outside_kreta.jpeg" class="d-block w-100" alt="Kreta Terras">
                 </div>
                 <div class="carousel-item">
                     <img src="https://via.placeholder.com/800x400?text=Slide+2" class="d-block w-100" alt="...">
