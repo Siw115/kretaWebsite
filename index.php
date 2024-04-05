@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<?php include('utensils/header.php'); ?>
+<?php include('src/utensils/header.php'); ?>
 
 <!-- Main Content -->
 <div class="container">
@@ -27,7 +27,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 text-center">
-                        <img src="images/art.png" class="img-fluid" alt="Afbeelding van Kreta restaurant raam art">
+                        <img src="src/images/art.png" class="img-fluid" alt="Afbeelding van Kreta restaurant raam art">
                     </div>
                 </div>
             </div>
@@ -47,13 +47,13 @@
         <div id="carouselExampleIndicators" class="carousel slide mt-5" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="images/outside_kreta.jpeg" class="d-block w-100" alt="Kreta Terras">
+                    <img src="src/images/outside_kreta.jpeg" class="d-block w-100" alt="Kreta Terras">
                 </div>
                 <div class="carousel-item">
-                    <img src="images/food.jpeg" class="d-block w-100" alt="Grieks eten">
+                    <img src="src/images/food.jpeg" class="d-block w-100" alt="Grieks eten">
                 </div>
                 <div class="carousel-item">
-                    <img src="images/beer.jpeg" class="d-block w-100" alt="Mythos beer">
+                    <img src="src/images/beer.jpeg" class="d-block w-100" alt="Mythos beer">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -72,8 +72,8 @@
     <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
             <div class="card h-100 shadow d-flex flex-column">
-                <div class="card-body d-flex flex-column justify-content-center align-items-center flex-grow-1">
-                    <i class="bi bi-house-check text-primary fs-3 mb-2"></i>
+                <div class="card-body d-flex flex-column justify-content-start align-items-center flex-grow-1">
+                    <i class="bi bi-house-check text-primary fs-1 mb-2"></i>
                     <h5 class="card-title text-center text-primary">Online Bestellen</h5>
                     <p class="card-text text-center">Ook is er een mogelijkheid voor de gasten die liever thuis van de Griekse keuken willen genieten. U kunt online het menu bekijken en telefonisch bestellen. Vervolgens kunt u op het gewenste tijdstip uw bestelling ophalen.</p>
                 </div>
@@ -81,8 +81,8 @@
         </div>
         <div class="col">
             <div class="card h-100 shadow d-flex flex-column">
-                <div class="card-body d-flex flex-column justify-content-center align-items-center flex-grow-1">
-                    <i class="bi bi-menu-app text-primary fs-3 mb-2"></i>
+                <div class="card-body d-flex flex-column justify-content-start align-items-center flex-grow-1">
+                    <i class="bi bi-menu-app text-primary fs-1 mb-2"></i>
                     <h5 class="card-title text-center text-primary">Diverse Opties</h5>
                     <p class="card-text text-center">U kunt tevens bij Restaurant Kreta terecht voor lunch, diner, groepsdiner, buffet, catering en speciale gelegenheden. Ook is er een aparte ruimte met extra privacy voor een zakendiner. U kunt Restaurant Kreta altijd bellen voor de mogelijkheden.</p>
                 </div>
@@ -90,8 +90,8 @@
         </div>
         <div class="col">
             <div class="card h-100 shadow d-flex flex-column">
-                <div class="card-body d-flex flex-column justify-content-center align-items-center flex-grow-1">
-                    <i class="bi bi-briefcase-fill text-primary fs-3 mb-2"></i>
+                <div class="card-body d-flex flex-column justify-content-start align-items-center flex-grow-1">
+                    <i class="bi bi-briefcase-fill text-primary fs-1 mb-2"></i>
                     <h5 class="card-title text-center text-primary">Zakendiner</h5>
                     <p class="card-text text-center">Er is een aparte ruimte met extra privacy voor een zakendiner. U kunt Restaurant Kreta altijd bellen voor de mogelijkheden.</p>
                 </div>
@@ -100,7 +100,7 @@
     </div>
 </div>
 
-<?php include('utensils/bootstrap_includes_scripts.php'); ?>
+<?php include('src/utensils/bootstrap_includes_scripts.php'); ?>
 
 </body>
 </html>
