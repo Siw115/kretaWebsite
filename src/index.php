@@ -11,6 +11,28 @@
 
 <?php include('utensils/header.php'); ?>
 
+<div class="container">
+    <div class="row justify-content-center m-3">
+        <div class="col-md-8">
+            <div class="d-flex justify-content-center jumbotron-home">
+                <div class="row justify-content-center align-items-center">
+                    <div class="col-md-6">
+                        <div class="text-center">
+                            <h3 class="mb-3">Lieve Gasten</h3>
+                            <p>We zijn blij dat wij u weer mogen verwelkomen! Vanaf 12:00 zijn wij geopend voor lunch & diner.</p>
+                            <h4 class="mt-3">Team Kreta</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="../images/art.png" class="img-fluid" alt="Art">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
 <?php include('utensils/bootstrap_includes_scripts.php'); ?>
 
 </body>

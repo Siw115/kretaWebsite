@@ -1,0 +1,16 @@
+.jumbotron-home p {
+    margin: 0 auto;
+    color: white;
+}
+
+h3, h4 {
+    color: white;
+}
+
+.jumbotron-home {
+    border-radius: 10px;
+    background: rgb(19,49,128);
+    background: linear-gradient(90deg, rgba(19,49,128,1) 0%, rgba(66,91,193,1) 50%, rgba(0,212,255,1) 100%);
+    padding: 20px;
+    max-width: 800px; /* Adjust the max-width as needed */
+}

@@ -2,8 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 @import url('utensils/header.css');
 @import url('menu/menu.css');
+@import url('utensils/home.css');
 
-h1, h2 {
+h1, h2, h3, h4 {
     font-family: 'EB Garamond', serif;
 }
 
