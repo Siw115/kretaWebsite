@@ -6,6 +6,7 @@
     <title>Kreta Voorburg | Home</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
 </head>
 <body>
@@ -14,7 +15,7 @@
 
 <!-- Main Content -->
 <div class="container">
-    <div class="row justify-content-center m-3">
+    <div class="row justify-content-center m-3" data-aos="fade-up">
         <div class="col-md-8">
             <div class="d-flex justify-content-center align-items-center jumbotron-home">
                 <div class="row justify-content-center align-items-center">
@@ -33,7 +34,7 @@
         </div>
     </div>
 
-    <div class="container mt-5">
+    <div class="container mt-5" data-aos="fade-up">
         <h2 class="text-primary">Grieks Restaurant Kreta</h2>
         <p>Grieks restaurant Kreta, zit op de hoek van de Parkweg in Voorburg. Het restaurant is opgericht op 10 februari 1988 en wordt al 31 jaar met passie gerund door de eigenaren Vasilis Chalos en Sakis Makris samen met de rest van de familie. Het restaurant kenmerkt zich door de traditionele en gezellige sfeer. <a href="#" class="text-decoration-none" data-bs-toggle="collapse" data-bs-target="#collapseExample">Klik hier</a> om meer te weten over onze terras.</p>
         <div class="collapse" id="collapseExample">
@@ -67,7 +68,7 @@
     </div>
 </div>
 
-<div class="container mt-5 mb-4">
+<div class="container mt-5 mb-4" data-aos="fade-up">
     <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
             <div class="card h-100 shadow d-flex flex-column">
