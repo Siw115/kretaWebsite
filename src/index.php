@@ -25,7 +25,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 text-center">
-                        <img src="../images/art.png" class="img-fluid" alt="Art">
+                        <img src="../images/art.png" class="img-fluid" alt="Afbeelding van Kreta restaurant raam art">
                     </div>
                 </div>
             </div>
@@ -43,8 +43,60 @@
         </div>
     </div>
     <p><em>Ontdek de authentieke Griekse smaken bij Grieks Restaurant Kreta!</em></p>
+    <div id="carouselExampleIndicators" class="carousel slide mt-5" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="https://via.placeholder.com/800x400?text=Slide+1" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/800x400?text=Slide+2" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/800x400?text=Slide+3" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
 </div>
 
+<div class="container mt-5">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="col">
+            <div class="card h-100 shadow">
+                <div class="card-body d-flex flex-column justify-content-center align-items-center">
+                    <i class="bi bi-house-check text-primary fs-3 mb-3"></i>
+                    <h5 class="card-title text-center">Online Bestellen</h5>
+                    <p class="card-text text-center">Ook is er een mogelijkheid voor de gasten die liever thuis van de Griekse keuken willen genieten. U kunt online het menu bekijken en telefonisch bestellen. Vervolgens kunt u op het gewenste tijdstip uw bestelling ophalen.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card h-100 shadow">
+                <div class="card-body d-flex flex-column justify-content-center align-items-center">
+                    <i class="bi bi-menu-app text-info fs-3 mb-3"></i>
+                    <h5 class="card-title text-center">Diverse Opties</h5>
+                    <p class="card-text text-center">U kunt tevens bij Restaurant Kreta terecht voor lunch, diner, groepsdiner, buffet, catering en speciale gelegenheden. Ook is er een aparte ruimte met extra privacy voor een zakendiner. U kunt Restaurant Kreta altijd bellen voor de mogelijkheden.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card h-100 shadow">
+                <div class="card-body d-flex flex-column justify-content-center align-items-center">
+                    <i class="bi bi-briefcase-fill text-info fs-3 mb-3"></i>
+                    <h5 class="card-title text-center">Zakendiner</h5>
+                    <p class="card-text text-center">Er is een aparte ruimte met extra privacy voor een zakendiner. U kunt Restaurant Kreta altijd bellen voor de mogelijkheden.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <?php include('utensils/bootstrap_includes_scripts.php'); ?>
 
