@@ -12,6 +12,7 @@
 
 <?php include('utensils/header.php'); ?>
 
+<!-- Main Content -->
 <div class="container">
     <div class="row justify-content-center m-3">
         <div class="col-md-8">
@@ -31,38 +32,38 @@
             </div>
         </div>
     </div>
-</div>
 
-<div class="container mt-5">
-    <h2 class="text-primary">Grieks Restaurant Kreta</h2>
-    <p>Grieks restaurant Kreta, zit op de hoek van de Parkweg in Voorburg. Het restaurant is opgericht op 10 februari 1988 en wordt al 31 jaar met passie gerund door de eigenaren Vasilis Chalos en Sakis Makris samen met de rest van de familie. Het restaurant kenmerkt zich door de traditionele en gezellige sfeer. <a href="#" class="text-decoration-none" data-bs-toggle="collapse" data-bs-target="#collapseExample">Klik hier</a> om meer te weten over onze terras.</p>
-    <div class="collapse" id="collapseExample">
-        <div class="alert alert-info" role="alert">
-            <i class="bi bi-info-circle-fill"></i>
-            Zodra het weer het toelaat, is er ook een prachtig (verwarmd) terras waar u heerlijk kunt genieten in de warme periode.
-        </div>
-    </div>
-    <p><em>Ontdek de authentieke Griekse smaken bij Grieks Restaurant Kreta!</em></p>
-    <div id="carouselExampleIndicators" class="carousel slide mt-5" data-bs-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="https://via.placeholder.com/800x400?text=Slide+1" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-                <img src="https://via.placeholder.com/800x400?text=Slide+2" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-                <img src="https://via.placeholder.com/800x400?text=Slide+3" class="d-block w-100" alt="...">
+    <div class="container mt-5">
+        <h2 class="text-primary">Grieks Restaurant Kreta</h2>
+        <p>Grieks restaurant Kreta, zit op de hoek van de Parkweg in Voorburg. Het restaurant is opgericht op 10 februari 1988 en wordt al 31 jaar met passie gerund door de eigenaren Vasilis Chalos en Sakis Makris samen met de rest van de familie. Het restaurant kenmerkt zich door de traditionele en gezellige sfeer. <a href="#" class="text-decoration-none" data-bs-toggle="collapse" data-bs-target="#collapseExample">Klik hier</a> om meer te weten over onze terras.</p>
+        <div class="collapse" id="collapseExample">
+            <div class="alert alert-info" role="alert">
+                <i class="bi bi-info-circle-fill"></i>
+                Zodra het weer het toelaat, is er ook een prachtig (verwarmd) terras waar u heerlijk kunt genieten in de warme periode.
             </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-        </button>
+        <p><em>Ontdek de authentieke Griekse smaken bij Grieks Restaurant Kreta!</em></p>
+        <div id="carouselExampleIndicators" class="carousel slide mt-5" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="https://via.placeholder.com/800x400?text=Slide+1" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://via.placeholder.com/800x400?text=Slide+2" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://via.placeholder.com/800x400?text=Slide+3" class="d-block w-100" alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
     </div>
 </div>
 
