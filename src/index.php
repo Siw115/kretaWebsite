@@ -69,8 +69,8 @@
 <div class="container mt-5 mb-4">
     <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
-            <div class="card h-100 shadow">
-                <div class="card-body d-flex flex-column justify-content-center align-items-center">
+            <div class="card h-100 shadow d-flex flex-column">
+                <div class="card-body d-flex flex-column justify-content-center align-items-center flex-grow-1">
                     <i class="bi bi-house-check text-primary fs-3 mb-3"></i>
                     <h5 class="card-title text-center">Online Bestellen</h5>
                     <p class="card-text text-center">Ook is er een mogelijkheid voor de gasten die liever thuis van de Griekse keuken willen genieten. U kunt online het menu bekijken en telefonisch bestellen. Vervolgens kunt u op het gewenste tijdstip uw bestelling ophalen.</p>
@@ -78,8 +78,8 @@
             </div>
         </div>
         <div class="col">
-            <div class="card h-100 shadow">
-                <div class="card-body d-flex flex-column justify-content-center align-items-center">
+            <div class="card h-100 shadow d-flex flex-column">
+                <div class="card-body d-flex flex-column justify-content-center align-items-center flex-grow-1">
                     <i class="bi bi-menu-app text-primary fs-3 mb-3"></i>
                     <h5 class="card-title text-center">Diverse Opties</h5>
                     <p class="card-text text-center">U kunt tevens bij Restaurant Kreta terecht voor lunch, diner, groepsdiner, buffet, catering en speciale gelegenheden. Ook is er een aparte ruimte met extra privacy voor een zakendiner. U kunt Restaurant Kreta altijd bellen voor de mogelijkheden.</p>
@@ -87,8 +87,8 @@
             </div>
         </div>
         <div class="col">
-            <div class="card h-100 shadow">
-                <div class="card-body d-flex flex-column justify-content-center align-items-center">
+            <div class="card h-100 shadow d-flex flex-column">
+                <div class="card-body d-flex flex-column justify-content-center align-items-center flex-grow-1">
                     <i class="bi bi-briefcase-fill text-primary fs-3 mb-3"></i>
                     <h5 class="card-title text-center">Zakendiner</h5>
                     <p class="card-text text-center">Er is een aparte ruimte met extra privacy voor een zakendiner. U kunt Restaurant Kreta altijd bellen voor de mogelijkheden.</p>
