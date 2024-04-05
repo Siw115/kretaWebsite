@@ -50,10 +50,10 @@
                     <img src="images/outside_kreta.jpeg" class="d-block w-100" alt="Kreta Terras">
                 </div>
                 <div class="carousel-item">
-                    <img src="images/food.jpeg" class="d-block w-100" alt="...">
+                    <img src="images/food.jpeg" class="d-block w-100" alt="Grieks eten">
                 </div>
                 <div class="carousel-item">
-                    <img src="images/beer.jpeg" class="d-block w-100" alt="...">
+                    <img src="images/beer.jpeg" class="d-block w-100" alt="Mythos beer">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
