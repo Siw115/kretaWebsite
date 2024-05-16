@@ -15,6 +15,25 @@ h3, h4 {
     box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3); /* Add shadow */
 }
 
+/* CSS to ensure equal height for the jumbotron-home elements */
+.row.align-items-stretch {
+    display: flex;
+    align-items: stretch;
+}
+
+.col-md-6.d-flex,
+.col-md-4.d-flex {
+    display: flex;
+}
+
+.jumbotron-home {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
 .custom-badge {
     font-size: 0.9em;
 }
@@ -26,4 +45,8 @@ h3, h4 {
 .carousel-item img {
     object-fit: cover;
     max-height: 350px;
+}
+
+.image-logo {
+    background-color: red;
 }

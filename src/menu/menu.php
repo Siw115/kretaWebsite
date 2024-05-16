@@ -50,6 +50,7 @@
 
 
 <?php include('../utensils/bootstrap_includes_scripts.php'); ?>
+<?php include('../utensils/footer.php'); ?>
 
 
 </body>

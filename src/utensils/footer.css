@@ -1,0 +1,23 @@
+footer {
+    background-color: #425bc1;
+}
+
+footer p {
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 5px;
+    transition: .5s;
+    margin-top: 5vh;
+}
+
+footer li a:hover {
+    background-color: #2c3c85;
+    border-radius: 5px;
+}
+
+i {
+    font-size: 30px;
+}
