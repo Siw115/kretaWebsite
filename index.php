@@ -30,7 +30,9 @@
                                 </div>
                             </div>
                             <div class="col-md-6 text-center">
-                                <img class="img-logo" src="src/images/art.png" class="img-fluid" alt="Afbeelding van Kreta restaurant raam art">
+                                <div class="img-logo-wrapper">
+                                    <img class="img-logo" src="src/images/art.png" class="img-fluid" alt="Afbeelding van Kreta restaurant raam art">
+                                </div>
                             </div>
                         </div>
                     </div>
