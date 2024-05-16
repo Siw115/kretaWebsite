@@ -21,10 +21,7 @@
                     <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/src/menu/menu.php') echo 'active'; ?>" href="/kretaWebsite/src/menu/menu.php">Menu</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/gallery.php') echo 'active'; ?>" href="/src/gallery.php">Galerij</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/contact.php') echo 'active'; ?>" href="/src/contact.php" tabindex="-1">Contact</a>
+                    <a class="nav-link <?php if($_SERVER['REQUEST_URI'] == '/kretaWebsite/src/gallery/gallery.php') echo 'active'; ?>" href="/kretaWebsite/src/gallery/gallery.php">Galerij</a>
                 </li>
             </ul>
         </div>

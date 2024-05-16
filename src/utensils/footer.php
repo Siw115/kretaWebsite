@@ -17,7 +17,7 @@
                 <ul class="list-unstyled">
                     <li><a href="/kretaWebsite/" class="text-white">Home</a></li>
                     <li><a href="/kretaWebsite/src/menu/menu.php" class="text-white">Menu</a></li>
-                    <li><a href="#" class="text-white">Galerij</a></li>
+                    <li><a href="/kretaWebsite/src/gallery/gallery.php" class="text-white">Galerij</a></li>
                 </ul>
             </div>
 
