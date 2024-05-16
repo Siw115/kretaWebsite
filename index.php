@@ -61,8 +61,7 @@
 </div>
 
 
-
-    <div class="container mt-3" data-aos="fade-up">
+    <div class="container mt-5" data-aos="fade-up">
         <h2 class="text-primary">Grieks Restaurant Kreta</h2>
         <p>Welkom bij Grieks Restaurant Kreta, gelegen op de hoek van de Parkweg in Voorburg. Sinds de oprichting op 10 februari 1988, wordt ons restaurant met veel liefde en passie gerund door de eigenaren Vasilis Chalos en Sakis Makris, samen met hun familie. De traditionele en warme sfeer van ons restaurant nodigt uit tot gezelligheid. Zodra het weer het toelaat, kunt u ook genieten op ons prachtige (verwarmde) terras tijdens de warmere maanden.</p>
         <div id="carouselExampleIndicators" class="carousel slide mt-5" data-bs-ride="carousel">
