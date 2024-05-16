@@ -1,5 +1,9 @@
 footer {
-    background-color: #425bc1;
+    background-color: black;
+}
+
+footer h5 {
+    color: white;
 }
 
 footer p {

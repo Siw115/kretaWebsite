@@ -50,7 +50,7 @@
                                     <p>Vrijdag: 17:00–22:00</p>
                                     <p>Zaterdag: 17:00–22:00</p>
                                     <p>Zondag: 17:00–22:00</p>
-                                    <p aria-label="Call Kreta restaurant">Neem contact met ons op <a class="text-white" href="tel:+0703867531">+070 386 7531</a></p>
+                                    <p aria-label="Call Kreta restaurant">Neem contact met ons op <a class="text-dark" href="tel:+0703867531">+070 386 7531</a></p>
                                     <a href="#google-maps" class="btn btn-light">Route</a>
                                 </div>
                             </div>
